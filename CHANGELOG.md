@@ -15,4 +15,4 @@
 
 ### Merged pull requests:
 * Add even more text to nasty_bug_fix.txt [#5](https://github.com/serpro69/changelogen-test/issues/5) ([serpro69](https://github.com/serpro69))
-* Add more text to nasty_bug_fix [#4]((https://github.com/serpro69/changelogen-test/issues/4) ([serpro69](https://github.com/serpro69))
+* Add more text to nasty_bug_fix [#4](https://github.com/serpro69/changelogen-test/issues/4) ([serpro69](https://github.com/serpro69))
